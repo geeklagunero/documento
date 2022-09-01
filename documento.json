@@ -1,0 +1,94 @@
+{
+    "comunidades": [
+    {
+    "nombre": "Castilla y León",
+    "superficie": 94223,
+    "porcentaje": 18.6
+    },
+    {
+    "nombre": "Andalucía",
+    "superficie": 87268,
+    "porcentaje": 17.2
+    },
+    {
+    "nombre": "Castilla-La Mancha",
+    "superficie": 79463,
+    "porcentaje": 15.7
+    },
+    {
+    "nombre": "Aragón",
+    "superficie": 47719,
+    "porcentaje": 9.4
+    },
+    {
+    "nombre": "Extremadura",
+    "superficie": 41634,
+    "porcentaje": 8.2
+    },
+    {
+    "nombre": "Cataluña",
+    "superficie": 32114,
+    "porcentaje": 6.3
+    },
+    {
+    "nombre": "Galicia",
+    "superficie": 29574,
+    "porcentaje": 5.8
+    },
+    {
+    "nombre": "Comunidad Valenciana",
+    "superficie": 23255,
+    "porcentaje": 4.6
+    },
+    {
+    "nombre": "Región de Murcia",
+    "superficie": 11313,
+    "porcentaje": 2.2
+    },
+    {
+    "nombre": "Principado de Asturias",
+    "superficie": 10604,
+    "porcentaje": 2.1
+    },
+    {
+    "nombre": "Navarra",
+    "superficie": 10391,
+    "porcentaje": 2.1
+    },
+    {
+    "nombre": "Comunidad de Madrid",
+    "superficie": 8028,
+    "porcentaje": 1.6
+    },
+    {
+    "nombre": "Canarias",
+    "superficie": 7447,
+    "porcentaje": 1.5
+    },
+    {
+    "nombre": "País Vasco",
+    "superficie": 7234,
+    "porcentaje": 1.4
+    },
+    {
+    "nombre": "Cantabria",
+    "superficie": 5321,
+    "porcentaje": 1
+    },
+    {
+    "nombre": "La Rioja",
+    "superficie": 5045,
+    "porcentaje": 1
+    },
+    {
+    "nombre": "Islas Baleares",
+    "superficie": 4992,
+    "porcentaje": 1
+    },
+    {
+    "nombre": "Ceuta y Melilla",
+    "superficie": 33,
+    "porcentaje": 0.01
+    }
+    ]
+    }
